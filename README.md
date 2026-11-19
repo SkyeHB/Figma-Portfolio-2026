@@ -41,7 +41,7 @@ A collection of website interface concepts exploring page layouts, content organ
   </tr>
 </table>
 
-### 2 # Figma UI/UX Design Portfolio
+### 2 Figma UI/UX Design Portfolio
 
 A collection of UI/UX design work created in **Figma**, showcasing web page layouts, application interfaces, navigation flows, and user interaction concepts.
 
