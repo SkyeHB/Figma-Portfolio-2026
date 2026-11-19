@@ -41,49 +41,6 @@ A collection of website interface concepts exploring page layouts, content organ
   </tr>
 </table>
 
-### 2 Figma UI/UX Design Portfolio
-
-A collection of UI/UX design work created in **Figma**, showcasing web page layouts, application interfaces, navigation flows, and user interaction concepts.
-
-This portfolio highlights my approach to translating design ideas into visual interfaces and mapping user experiences through screen layouts and flow diagrams.
-
-## Portfolio Contents
-
-### 1. Web Page Design
-
-A collection of website interface concepts exploring page layouts, content organization, and user-facing functionality.
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/SkyeHB/Figma-Portfolio-2026/blob/main/Web%20Page%20Design/Applicant-Stats.png">
-        <img src="https://raw.githubusercontent.com/SkyeHB/Figma-Portfolio-2026/main/Web%20Page%20Design/Applicant-Stats.png" width="220" alt="Applicant Statistics design">
-      </a>
-      <br><sub>Applicant Statistics</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/SkyeHB/Figma-Portfolio-2026/blob/main/Web%20Page%20Design/Create-Job-Posting-Page.png">
-        <img src="https://raw.githubusercontent.com/SkyeHB/Figma-Portfolio-2026/main/Web%20Page%20Design/Create-Job-Posting-Page.png" width="220" alt="Create Job Posting design">
-      </a>
-      <br><sub>Create Job Posting</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/SkyeHB/Figma-Portfolio-2026/blob/main/Web%20Page%20Design/Filter-Job-Posting-Page.png">
-        <img src="https://raw.githubusercontent.com/SkyeHB/Figma-Portfolio-2026/main/Web%20Page%20Design/Filter-Job-Posting-Page.png" width="220" alt="Filter Job Postings design">
-      </a>
-      <br><sub>Filter Job Postings</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/SkyeHB/Figma-Portfolio-2026/blob/main/Web%20Page%20Design/Grocery-Home-Page.png">
-        <img src="https://raw.githubusercontent.com/SkyeHB/Figma-Portfolio-2026/main/Web%20Page%20Design/Grocery-Home-Page.png" width="220" alt="Grocery Home Page design">
-      </a>
-      <br><sub>Grocery Home Page</sub>
-    </td>
-  </tr>
-</table>
-
 ### 2. Application Design
 
 Application interface concepts demonstrating screen layouts and navigation across different parts of an application.
