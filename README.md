@@ -76,20 +76,20 @@ Application interface concepts demonstrating screen layouts and navigation acros
 Flow diagrams illustrating user journeys, navigation paths, and interaction sequences.
 
 **General Flow Diagrams**
-- [Flow Diagram 1](<Flow Diagrams/Flow-Diagram-1.png>)
-- [Flow Diagram 2](<Flow Diagrams/Flow-Diagram-2.png>)
-- [Flow Diagram 3](<Flow Diagrams/Flow-Diagram-3.png>)
+- [Flow Diagram 1](Flow%20Diagrams/Flow-Diagram-1.png)
+- [Flow Diagram 2](Flow%20Diagrams/Flow-Diagram-2.png)
+- [Flow Diagram 3](Flow%20Diagrams/Flow-Diagram-3.png)
 
 **Voice User Interface (VUI) Flow Diagrams**
-- [VUI Flow Diagram 1](<Flow Diagrams/VUI-Flow-Diagram-1.png>)
-- [VUI Flow Diagram 2](<Flow Diagrams/VUI-Flow-Diagram-2.png>)
-- [VUI Flow Diagram 3](<Flow Diagrams/VUI-Flow-Diagram-3.png>)
+- [VUI Flow Diagram 1](Flow%20Diagrams/VUI-Flow-Diagram-1.png)
+- [VUI Flow Diagram 2](Flow%20Diagrams/VUI-Flow-Diagram-2.png)
+- [VUI Flow Diagram 3](Flow%20Diagrams/VUI-Flow-Diagram-3.png)
 
 **Additional Diagram Files**
-- [Diagram Iteration 1](<Flow Diagrams/resize1.png>)
-- [Diagram Iteration 2](<Flow Diagrams/resize2.png>)
-- [Diagram Iteration 3](<Flow Diagrams/resize3.png>)
-
+- [Diagram Iteration 1](Flow%20Diagrams/resize1.png)
+- [Diagram Iteration 2](Flow%20Diagrams/resize2.png)
+- [Diagram Iteration 3](Flow%20Diagrams/resize3.png)
+  
 ## Skills Demonstrated
 
 - UI/UX Design
